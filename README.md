@@ -1,2 +1,2 @@
 # e2e
-# Cypress sample test
+# Cypress sample login test
